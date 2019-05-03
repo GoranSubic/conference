@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "25b1804afa1b5e80180929b39038853d",
+    "content-hash": "cf1dbcb79eb08c55c531e5d06043e7f6",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2643,6 +2643,57 @@
             "homepage": "https://www.drupal.org/project/corporate_lite",
             "support": {
                 "source": "https://git.drupalcode.org/project/corporate_lite"
+            }
+        },
+        {
+            "name": "drupal/custom_header_image",
+            "version": "1.0.0-alpha2",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/custom_header_image.git",
+                "reference": "8.x-1.0-alpha2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/custom_header_image-8.x-1.0-alpha2.zip",
+                "reference": "8.x-1.0-alpha2",
+                "shasum": "6d9d316087889a5b223a7702ad6da41f36c8673b"
+            },
+            "require": {
+                "drupal/core": "~8.0"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.0-alpha2",
+                    "datestamp": "1524429483",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Project has not opted into security advisory coverage!"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "EclipseGc",
+                    "homepage": "https://www.drupal.org/user/61203"
+                }
+            ],
+            "description": "Allows header image block customization per page.",
+            "homepage": "https://www.drupal.org/project/custom_header_image",
+            "keywords": [
+                "Drupal"
+            ],
+            "support": {
+                "source": "http://cgit.drupalcode.org/custom_header_image",
+                "issues": "https://www.drupal.org/project/issues/custom_header_image"
             }
         },
         {
@@ -8713,6 +8764,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "drupal/custom_header_image": 15,
         "drupal/exclude_node_title": 10,
         "drupal/simple_block_slider": 20
     },

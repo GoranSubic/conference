@@ -23,6 +23,7 @@
         "drupal/console": "^1.0.2",
         "drupal/core": "^8.6.0",
         "drupal/corporate_lite": "^1.0",
+        "drupal/custom_header_image": "^1.0@alpha",
         "drupal/d8_blog_theme": "^1.1",
         "drupal/d8w3css": "^1.15",
         "drupal/devel": "^1.2",
