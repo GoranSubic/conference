@@ -1,10 +1,10 @@
-name: Goran Drupal8 W3CSS Subtheme
+name: goran_d8w3css_subtheme
 type: theme
 base theme: drupal8_w3css_theme
 description: 'drupal8 w3css subtheme is an empty theme for your customization.'
 
 libraries:
-  - goran_d8w3css_subtheme/global-components
+  - goran_d8w3css/global-components
 
 #Regions
 regions:
