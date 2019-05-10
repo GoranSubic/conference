@@ -5,6 +5,7 @@ description: 'drupal8 w3css subtheme is an empty theme for your customization.'
 
 libraries:
   - goran_d8w3css/global-components
+  - goran_d8w3css/fonts
 
 #Regions
 regions:

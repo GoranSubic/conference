@@ -6,3 +6,8 @@ global-components:
 
   js:
     js/script.js: {}
+
+fonts:
+  css:
+    theme:
+      '//fonts.googleapis.com/css?family=Merriweather:400,700': {type: external}
