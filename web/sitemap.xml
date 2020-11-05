@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://conf.pf.uns.ac.rs/</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/committees</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/programme</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/roundtables</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/registration</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/events</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/aboutns</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/aboutuns</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/aboutfl</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/venue</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/travel</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/accommodation</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/galleries</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/videos</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/contact</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/committees</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/programme</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/roundtables</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/registration</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/events</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/aboutns</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/aboutuns</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/aboutfl</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/venue</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/travel</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/accommodation</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/galleries</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/videos</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/contact</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/node/26</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/node/27</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/node/26</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://conf.pf.uns.ac.rs/sr/node/27</loc>
+  <lastmod>2019-09-03T10:58:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

@@ -4,3 +4,8 @@
  * @file
  * Add your custom theme override functions here.
  */
+
+function goran_d8w3css_preprocess_links__language_block(&$variables) {
+    $variables['links']['en']['link']['#title'] = 'English';
+    $variables['links']['rs']['link']['#title'] = 'Српски';
+}

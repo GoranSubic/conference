@@ -8,6 +8,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', 'Palatino Linotype',"Segoe UI",Arial,sans-serif;
 }
 
+h2 {
+  font-size: 24px;
+  color: #334f7d;
+}
+
+span.subtitle-sr {
+  font-size: 28px;
+  color: #334f7d;
+}
+
 body {
   background-color: #b4b4b4;
   /*min-height: 100%;*/
@@ -34,9 +44,13 @@ body {
   padding: 0px;
 }
 
-#block-goran-d8w3css-breadcrumbs {
+#block-goran-d8w3css-breadcrumbs ul.breadcrumb {
   font-family: 'Merriweather',Verdana,sans-serif;
   font-size: 12px;
+
+  z-index: 2;
+  position: absolute;
+  padding: 20px 0 20px 0;
 }
 
 #main-container {
@@ -69,6 +83,99 @@ body {
 
 .field--name-field-articlegmaps .field__label {
   display: none;
+}
+
+#block-headerimageblock {
+  max-height: 335px;
+}
+
+#header {
+  z-index: 0;
+  position: relative;
+}
+
+div.w3-quarter.first-sidebar {
+  padding-top: 40px;
+}
+
+div.w3-threequarter.w3css-content {
+  padding-top: 20px;
+}
+
+#block-languageswitcher {
+  z-index: 5;
+  position: absolute;
+}
+
+#block-languageswitcher ul.links {
+  float: right;
+  padding-right: 105px !important;
+}
+
+#block-languageswitcher li.en a.language-link {
+  margin: 0px;
+  padding-left: 20px !important;
+  background-image: url('/sites/default/files/languages/en.gif');
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+  /*color: #83a4cd;*/
+
+  height: 23px;
+  background-size: 37%;
+  font-size: 1.1em;
+  width: 90px;
+  text-align: right;
+
+  border-bottom: 1px solid #83a4cd;
+}
+
+#block-languageswitcher li.sr a.language-link {
+  margin: 0px;
+  padding-left: 20px !important;
+  background-image: url('/sites/default/files/languages/sr_rs.gif');
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+  /*color: #83a4cd;*/
+
+  height: 23px;
+  background-size: 40%;
+  font-size: 1.1em;
+  width: 90px;
+  text-align: right;
+  vertical-align: text-bottom;
+
+  border-bottom: 1px solid #83a4cd;
+}
+
+article.node--type-gallery-images div.field__item {
+  float: left;
+  padding: 5px;
+  width: 200px;
+}
+
+article.node--type-gallery-images div.field__item img {
+  border-radius: 10px;
+  height: 150px;
+}
+
+/* Hide title section - h1 on page for seo */
+#block-goran-d8w3css-page-title {
+  display: none;
+}
+
+
+div#table-pres-dean {
+  display: -webkit-flex; /* Safari */
+  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+  display: flex;
+  flex-wrap: wrap;
+
+#  font-size: 13px;
+#  padding: 5px !important;
+}
+
+div#table-pres-dean div {
+  margin: 10px 30px 10px 0;
 }
 
 /*#footer-container .first-footer > div {*/
